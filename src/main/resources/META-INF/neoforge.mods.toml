@@ -10,8 +10,6 @@ modAnyClass="com.github.dagoncs.smith_that.SmithThat"
 logoFile = "smith_that_logo.png"
 authors="dagoncs"
 description='''
-Have you ever wanted to dynamically upgrade your tools and armor using the Smithing Table?
-
 Smith That! overhauls the Vanilla Smithing mechanics to accept universal tags, allowing you to seamlessly upgrade your gear from Vanilla, Twilight Forest, Aether, and beyond!
 
 Features:
