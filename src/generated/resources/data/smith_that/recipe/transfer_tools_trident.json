@@ -1,0 +1,12 @@
+{
+  "type": "smith_that:tool_upgrade",
+  "addition": {
+    "tag": "c:tools/trident"
+  },
+  "base": {
+    "tag": "c:tools/trident"
+  },
+  "template": {
+    "item": "smith_that:upgrade_template"
+  }
+}

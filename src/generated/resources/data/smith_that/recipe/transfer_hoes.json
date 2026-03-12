@@ -1,0 +1,12 @@
+{
+  "type": "smith_that:tool_upgrade",
+  "addition": {
+    "tag": "minecraft:hoes"
+  },
+  "base": {
+    "tag": "minecraft:hoes"
+  },
+  "template": {
+    "item": "smith_that:upgrade_template"
+  }
+}

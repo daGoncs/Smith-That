@@ -1,0 +1,12 @@
+{
+  "type": "smith_that:tool_upgrade",
+  "addition": {
+    "tag": "c:tools/bow"
+  },
+  "base": {
+    "tag": "c:tools/bow"
+  },
+  "template": {
+    "item": "smith_that:upgrade_template"
+  }
+}

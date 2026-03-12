@@ -1,0 +1,13 @@
+{
+  "itemGroup.smith_that": "Smith That!",
+
+  "item.smith_that.upgrade_template": "Universal Smithing Template",
+  "item.smith_that.upgrade_template.applies_to": "Applies to:",
+  "item.smith_that.upgrade_template.applies_to_value": "Any Upgradable Gear",
+  "item.smith_that.upgrade_template.ingredients": "Ingredients:",
+  "item.smith_that.upgrade_template.ingredients_value": "Target Item Tier",
+
+  "smith_that.configuration.title": "Smith That! Server Configuration",
+  "smith_that.configuration.consume_template_by_default": "Consume Template on Use",
+  "smith_that.configuration.blacklist": "Smithing Blacklist (e.g., botania:terra_blade)"
+}

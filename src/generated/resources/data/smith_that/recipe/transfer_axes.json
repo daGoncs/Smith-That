@@ -1,0 +1,12 @@
+{
+  "type": "smith_that:tool_upgrade",
+  "addition": {
+    "tag": "minecraft:axes"
+  },
+  "base": {
+    "tag": "minecraft:axes"
+  },
+  "template": {
+    "item": "smith_that:upgrade_template"
+  }
+}

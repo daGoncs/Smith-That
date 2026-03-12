@@ -1,0 +1,38 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Apache 2.0"
+
+[[mods]]
+modId="smith_that"
+version="1.0.0"
+displayName="Smith That!"
+modAnyClass="com.github.dagoncs.smith_that.SmithThat"
+logoFile = "smith_that_logo.png"
+authors="dagoncs"
+description='''
+Have you ever wanted to dynamically upgrade your tools and armor using the Smithing Table?
+
+Smith That! overhauls the Vanilla Smithing mechanics to accept universal tags, allowing you to seamlessly upgrade your gear from Vanilla, Twilight Forest, Aether, and beyond!
+
+Features:
+- Universal Tool & Armor Upgrading
+- Fully Server-Configurable Blacklist
+- Built-in compatibility with JEI, REI, and EMI.
+'''
+
+[[dependencies.smith_that]]
+modId="neoforge"
+type="required"
+versionRange="[21,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.smith_that]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
+
+[[mixins]]
+config = "smith_that.mixins.json"

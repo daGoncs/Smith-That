@@ -1,0 +1,12 @@
+{
+  "type": "smith_that:tool_upgrade",
+  "addition": {
+    "tag": "c:tools/shields"
+  },
+  "base": {
+    "tag": "c:tools/shields"
+  },
+  "template": {
+    "item": "smith_that:upgrade_template"
+  }
+}

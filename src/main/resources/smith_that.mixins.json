@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.dagoncs.smith_that.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "smith_that.refmap.json",
+  "mixins": [
+    "SmithingMenuMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
